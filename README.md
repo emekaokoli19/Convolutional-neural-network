@@ -11,8 +11,7 @@
    Artificial intelligence(AI) has been indispensable in cancer research and has attained vast performance breakthroughs in comparison to the results produced by human experts. Artificial intelligence and machine learning provide a lot of algorithms that improve the prediction accuracy of the detection of cancer cells. The most pragmatic algorithm for cancer detection is deep learning’s convolutional neural network which produces an accuracy of up to 90% when detecting cancer from a radiographic image. It is no surprise that convolutional neural networks contribute heavily to cancer diagnosis in several areas such as the early detection of cancerous cells which increases the patient’s chance for successful treatment, artificial intelligence algorithm detection may reduce the cost of tests, and avoid wasteful therapy.
 
 ## Conclusion
-   Although a cure for cancer has eluded mankind, the realization that gene damage and genetic mutations can cause cancer was arguably one of the greatest research advances in the modern era. The use of convolutional neural networks in cancer imagery classification has proven very useful in cancer treatment with further research ongoing to better the results achieved from convolutional neural networks and provide significant progress in the global fight against cancer. 
-   
-                                                                                                     ### Okoli Chukwuemeka J.
+   Although a cure for cancer has eluded mankind, the realization that gene damage and genetic mutations can cause cancer was arguably one of the greatest research advances in the modern era. The use of convolutional neural networks in cancer imagery classification has proven very useful in cancer treatment with further research ongoing to better the results achieved from convolutional neural networks and provide significant progress in the global fight against cancer.
+                                                                                                              Okoli Chukwuemeka J.
 
 
