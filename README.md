@@ -12,6 +12,6 @@
 
 ## Conclusion
    Although a cure for cancer has eluded mankind, the realization that gene damage and genetic mutations can cause cancer was arguably one of the greatest research advances in the modern era. The use of convolutional neural networks in cancer imagery classification has proven very useful in cancer treatment with further research ongoing to better the results achieved from convolutional neural networks and provide significant progress in the global fight against cancer.
-``Okoli Chukwuemeka J.``                                                                                                           
+### Okoli Chukwuemeka J.                                                                                                          
 
 
